@@ -26,6 +26,8 @@ When you have completed this challenge, submit by DMing the instructors with a l
 * TDD all new work
 * any model METHODS you write must be fully tested.
 * any model RELATIONSHIPS you create must be fully tested.
+* use of scaffolding is not permitted on this assessment.
+* complete only what user stories request.
 ---
 ### Not Required
 
